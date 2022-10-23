@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "My Chrome Extension",
-  "description": "Starter for developing Chrome extension",
+  "name": "Inches to CM",
+  "description": "Converts length in inches to centimeters",
   "version": "1.0",
   "action": {
     "default_popup": "popup/popup.html",
